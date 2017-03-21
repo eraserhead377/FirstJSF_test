@@ -5,7 +5,7 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
-<title>Celsius to Fahrenheit Convertor 1.1</title>
+<title>Celsius to Fahrenheit Convertor 1.2</title>
 </head>
 <body>
 <f:view>
