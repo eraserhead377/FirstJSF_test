@@ -5,7 +5,7 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
-<title>Celsius to Fahrenheit Convertor</title>
+<title>Celsius to Fahrenheit Convertor 1.1</title>
 </head>
 <body>
 <f:view>
@@ -21,7 +21,7 @@
 
 
         <h:panelGroup rendered="#{temperatureConvertor.initial!=true}">
-        <h3> Result </h3>
+        <h3> Result :  </h3>
         <h:outputLabel value="Fahrenheit "></h:outputLabel>
         <h:outputLabel value="#{temperatureConvertor.fahrenheit}"></h:outputLabel>
         </h:panelGroup>

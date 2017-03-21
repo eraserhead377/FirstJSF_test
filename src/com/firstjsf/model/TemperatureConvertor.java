@@ -5,6 +5,7 @@ public class TemperatureConvertor {
      private double fahrenheit;
      private boolean initial= true;
 
+     //get celcios degree
      public double getCelsius() {
              return celsius;
      }
